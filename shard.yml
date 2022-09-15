@@ -1,0 +1,18 @@
+name: filetoggle
+version: 0.1.0
+
+authors:
+  - trueFireblade <annieherrmann03@gmail.com>
+
+targets:
+  filetoggle:
+    main: src/main.cr
+dependencies:
+  hydra:
+    github: Ghrind/hydra
+  logger:
+    github: crystal-lang/logger.cr
+    
+crystal: 1.5.0
+
+license: MIT

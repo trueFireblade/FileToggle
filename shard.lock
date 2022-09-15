@@ -1,0 +1,14 @@
+version: 2.0
+shards:
+  hydra:
+    git: https://github.com/ghrind/hydra.git
+    version: 0.4.0
+
+  logger:
+    git: https://github.com/crystal-lang/logger.cr.git
+    version: 0.1.0
+
+  termbox:
+    git: https://github.com/andrewsuzuki/termbox-crystal.git
+    version: 0.1.0+git.commit.9471d1f1852dec251d6bcb6f8a583e7abdf04f68
+
